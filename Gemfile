@@ -1,14 +1,14 @@
-# Someone else's version:
+## Official Jekyll recommendation:
+ruby source 'https://rubygems.org'
+require 'json'
+require 'open-uri'
+versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+gem 'github-pages', versions['github-pages']
+
+## Official, simple version
+#ruby source 'https://rubygems.org'
+#gem 'github-pages'
+
+## Someone else's version:
 #source 'https://rubygems.org'
 #gem 'github-pages', group: :jekyll_plugins
-
-# Official Jekyll recommendation:
-#ruby source 'https://rubygems.org'
-#require 'json'
-#require 'open-uri'
-#versions = JSON.parse(open('https://pages.github.com/versions.json').read)
-#gem 'github-pages', versions['github-pages']
-
-# Official, simple version
-ruby source 'https://rubygems.org'
-gem 'github-pages'
