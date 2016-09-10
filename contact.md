@@ -9,4 +9,4 @@ permalink: /contact
 * [GitHub][]
 
 [LinkedIn]: https://www.linkedin.com/in/jackenneking
-[GitHub]: https://github.com/JacktoseIntolerant
+[GitHub]: https://github.com/jacktose
