@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: JacktoseIntolerant GitHub
+title: jacktose GitHub page
 email: P1h3r1e3d13 at gmail doc com
 description: > # this means to ignore newlines until "baseurl:"
-    A test page for Jacktose Intolerant to play with
+    A test page for Jacktose to play with
     GitHub Pages, Jekyll, and random web stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.jacktose.com" # the base hostname & protocol for your site
 #twitter_username: 
-github_username:  JacktoseIntolerant
+github_username:  jacktose
 
 # Build settings
 markdown:    kramdown
